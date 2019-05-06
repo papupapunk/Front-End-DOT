@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>People pPOwer</title>
+	<title>FRONT END</title>
 	<link rel="stylesheet" type="text/css" href="vendor/css/boostrap.css">
 	<script type="text/javascript" src="vendor/js/es6-promise-auto.js"></script>
 	<script type="text/javascript" src="vendor/js/vue.js"></script>
