@@ -4,8 +4,8 @@
 
 CARA MENJALANKAN
 
-1. buka cmd
-2. masuk ke directory dimana folder project disimpan dulu
+1. Buka CMD
+2. Masuk ke directory dimana folder project disimpan dulu
 3. php -S localhost:8000 -t Front-End-DOT
 
 
